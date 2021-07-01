@@ -1,6 +1,6 @@
 ---
 title: Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates
-subtitle: Version 1.7.6
+subtitle: Version 1.7.6 WIP SC38 Consolidate and Clarify Logging and Records Archival Retention Requirements
 author:
   - CA/Browser Forum
 date: 3 June, 2021  
